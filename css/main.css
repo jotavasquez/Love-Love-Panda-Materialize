@@ -1,0 +1,77 @@
+header {
+    height:10em ;
+}
+
+body {
+    color:#FFF;
+}
+
+.red {
+    background-color: #FF875F;
+}
+
+.green {
+    background-color: #93F082;
+}
+
+h1{
+    font-size: 4em;
+    font-weight: bold;
+}
+
+.panda-uno {
+    height: 30em;
+    background-image: url(../assets/img/uno.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    filter: grayscale(100%);
+}
+
+.panda-dos {
+    height: 45em;
+    background-image: url(../assets/img/dos.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: grayscale(100%);
+}
+
+.panda-tres {
+    height: 40em;
+    background-image: url(../assets/img/tres.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    filter: grayscale(100%);
+}
+
+.about {
+    margin: 0;
+    padding: 2em;
+}
+
+.marco {
+    padding: 0.8em;
+}
+
+.mTop-Botton {
+    margin: 1.5em 0;
+    padding: 1.5em 0;
+}
+
+.pictures {
+    margin: 1.5em 0;
+    padding: 5em 0;
+}
+
+.m-p-0{
+    margin:0;
+    padding: 0;
+}
+
+footer{
+    margin: 0;
+    padding: 0.8em;
+    font-weight: bold;
+    font-size: 1.2em;
+}
